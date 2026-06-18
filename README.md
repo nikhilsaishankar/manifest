@@ -1,4 +1,4 @@
-# manifest
+# ArgoCD-GitOps
 
 > The **GitOps source of truth** for a Kubernetes application deployed continuously with **Argo CD**. This repository holds the Kubernetes manifest (a `Deployment` + `Service`); Argo CD watches it and keeps the cluster in sync with whatever is committed here.
 
